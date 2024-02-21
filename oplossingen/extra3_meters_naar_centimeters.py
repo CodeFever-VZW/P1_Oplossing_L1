@@ -3,4 +3,4 @@
 
 afstand_in_meters = input("Voer een afstand in meters in: ")
 omgezette_afstand = float(afstand_in_meters) * 100
-print("De equivalent in centimeters is:", omgezette_afstand)
+print("Het equivalent in centimeters is:", omgezette_afstand)
